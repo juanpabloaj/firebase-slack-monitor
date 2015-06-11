@@ -1,0 +1,15 @@
+{
+  "name": "firebase-slack-monitor",
+  "version": "0.1.0",
+  "description": "Monitoring firebase activity and notify to slack",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "juanpabloaj",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^2.2.7",
+    "slack-node": "^0.1.3"
+  }
+}
