@@ -6,7 +6,14 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "juanpabloaj",
+  "author": {
+    "name": "JuanPabloAJ",
+    "email": "jpabloaj@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:juanpabloaj/firebase-slack-monitor.git"
+  },
   "license": "MIT",
   "dependencies": {
     "firebase": "^2.2.7",
