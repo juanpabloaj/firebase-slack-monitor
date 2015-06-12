@@ -1,6 +1,10 @@
 # firebase-slack-monitor
 
-Monitoring the firebase activity and notify to slack
+Monitoring the firebase activity and send notifications to a slack channel.
+
+You can use this package as a docker container. The container is available in
+
+https://registry.hub.docker.com/u/juanpabloaj/firebase-slack-monitor/
 
 ## Environment variables
 
